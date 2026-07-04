@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -35,4 +37,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 <!---LeetCode Topics End-->
