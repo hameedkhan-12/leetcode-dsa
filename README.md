@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
