@@ -12,7 +12,6 @@ public:
                 count++;
                 end = min(end, intervals[i][1]);
             }else{
-                start = intervals[i][0];
                 end = intervals[i][1];
             }
         }
