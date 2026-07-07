@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0057-insert-interval/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -88,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
