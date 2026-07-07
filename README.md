@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
