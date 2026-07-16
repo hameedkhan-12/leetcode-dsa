@@ -134,14 +134,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
