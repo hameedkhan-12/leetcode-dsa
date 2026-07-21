@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0735-asteroid-collision](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -191,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
