@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0085-maximal-rectangle](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0085-maximal-rectangle/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -210,4 +212,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0046-permutations](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
