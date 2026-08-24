@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0040-combination-sum-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0077-combinations/) | Medium |
