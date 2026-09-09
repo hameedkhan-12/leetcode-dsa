@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Math
 | Problem Name | Difficulty |
