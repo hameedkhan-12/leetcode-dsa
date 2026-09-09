@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0057-insert-interval/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
@@ -136,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0242-valid-anagram](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
