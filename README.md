@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0242-valid-anagram](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -247,4 +249,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0077-combinations/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
