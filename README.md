@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
