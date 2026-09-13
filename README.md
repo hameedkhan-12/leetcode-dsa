@@ -297,4 +297,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
