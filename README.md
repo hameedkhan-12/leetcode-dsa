@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
