@@ -4,11 +4,11 @@ public:
         int min = *min_element(nums.begin(), nums.end());
         int max = *max_element(nums.begin(), nums.end());
 
-        for(int i = min; i>=1; i--){
-            if(min%i == 0 && max % i == 0){
-                return i;
-            }
+        while(min != 0 ){
+            int remainder = max % min;
+            max = min;
+            min = remainder;
         }
-        return 1;
+        return max;
     }
 };
