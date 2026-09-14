@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
