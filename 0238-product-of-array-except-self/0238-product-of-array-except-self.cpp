@@ -2,27 +2,28 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
+        vector<int> result(n);
         int countZeroes = 0;
-        int productWithoutZeroes = 1;
-
+        int prodWithoutZeroes = 1;
         for(int num: nums){
             if(num == 0){
                 countZeroes++;
             }else{
-                productWithoutZeroes *= num;
+                prodWithoutZeroes *= num;
             }
         }
 
-        vector<int> result(n);
-        for(int i = 0; i<n; i++){
-            if(nums[i] != 0 && countZeroes > 0){
+        for(int i = 0; i<nums.size(); i++){
+            int num = nums[i];
+
+            if(num != 0 && countZeroes > 0){
                 result[i] = 0;
-            }else if(nums[i] == 0 && countZeroes > 1){
+            }else if(countZeroes >1){
                 result[i] = 0;
-            }else if(nums[i] == 0){
-                result[i] = productWithoutZeroes;
+            }else if(num == 0 && countZeroes == 1){
+                result[i] = prodWithoutZeroes;
             }else{
-                result[i] = productWithoutZeroes / nums[i];
+                result[i] = prodWithoutZeroes / num;
             }
         }
         return result;
