@@ -10,7 +10,7 @@ public:
         for (int num : nums) {
             prefixSum += num;
             int needed = prefixSum - k;
-            if (freq.find(needed) != freq.end()) {
+            if (freq.count(needed)) {
                 count += freq[needed];
             }
             freq[prefixSum]++;
