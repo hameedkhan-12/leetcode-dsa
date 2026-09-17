@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0724-find-pivot-index/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Divide and Conquer
