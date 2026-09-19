@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## String
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -229,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
