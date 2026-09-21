@@ -9,7 +9,8 @@ public:
 
         for(int num: nums){
             prefixSum += num;
-            int remainder = ((prefixSum %k) + k) % k;
+            int remainder = prefixSum %k;
+            if(remainder < 0) remainder += k;
             if(mp.count(remainder)){
                 count += mp[remainder];
             }
