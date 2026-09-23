@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1550-three-consecutive-odds](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
