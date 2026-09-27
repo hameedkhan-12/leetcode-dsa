@@ -361,4 +361,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0386-lexicographical-numbers/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0386-lexicographical-numbers/) | Medium |
 <!---LeetCode Topics End-->
