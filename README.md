@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0396-rotate-function](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0085-maximal-rectangle/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
+| [0396-rotate-function](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0390-elimination-game/) | Medium |
+| [0396-rotate-function](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
