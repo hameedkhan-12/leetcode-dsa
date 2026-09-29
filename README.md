@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
+| [0397-integer-replacement](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0397-integer-replacement/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0396-rotate-function/) | Medium |
+| [0397-integer-replacement](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0397-integer-replacement/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0397-integer-replacement](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0397-integer-replacement/) | Medium |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -284,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
+| [0397-integer-replacement](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0397-integer-replacement/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
