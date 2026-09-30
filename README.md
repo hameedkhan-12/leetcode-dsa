@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0085-maximal-rectangle/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0390-elimination-game/) | Medium |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0397-integer-replacement](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0397-integer-replacement/) | Medium |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
