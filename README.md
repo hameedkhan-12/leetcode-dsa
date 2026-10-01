@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0390-elimination-game/) | Medium |
 | [0396-rotate-function](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0396-rotate-function/) | Medium |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0050-powx-n](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0390-elimination-game/) | Medium |
 | [0394-decode-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0394-decode-string/) | Medium |
