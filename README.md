@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0394-decode-string/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -393,8 +394,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0386-lexicographical-numbers/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
