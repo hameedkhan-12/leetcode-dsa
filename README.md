@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0390-elimination-game](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0390-elimination-game/) | Medium |
 | [0394-decode-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0397-integer-replacement](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0397-integer-replacement/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
