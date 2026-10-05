@@ -398,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Trie
@@ -407,14 +408,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
