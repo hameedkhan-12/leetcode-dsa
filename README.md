@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0100-same-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Trie
@@ -410,12 +411,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -427,4 +430,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
