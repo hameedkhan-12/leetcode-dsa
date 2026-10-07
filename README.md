@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Binary Tree
@@ -423,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 ## Interactive
@@ -436,4 +440,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
