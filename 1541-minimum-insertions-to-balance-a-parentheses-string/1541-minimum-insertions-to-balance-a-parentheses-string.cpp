@@ -1,24 +1,25 @@
 class Solution {
 public:
     int minInsertions(string s) {
-        int need = 0;
-        int ans = 0;
-        for (char c : s) {
-            if (c == '(') {
-                if (need % 2 == 1) {
-                    ans++;
-                    need--;
+        int open = 0;
+        int insertions = 0;
+
+        for (int i = 0; i < s.size(); i++) {
+            if (s[i] == '(') {
+                open++;
+            } else {
+                if (i + 1 == s.size() || s[i + 1] != ')') {
+                    insertions++;
+                } else {
+                    i++;
                 }
-                need += 2;
-            }
-            else {
-                need--;
-                if (need == -1) {
-                    ans++;
-                    need = 1;
+                if (open > 0) {
+                    open--;
+                } else {
+                    insertions++;
                 }
             }
         }
-      return ans + need;
+        return insertions + open * 2;
     }
 };
