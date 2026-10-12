@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1590-make-sum-divisible-by-p](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0397-integer-replacement](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0397-integer-replacement/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
