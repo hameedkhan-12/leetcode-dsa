@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1550-three-consecutive-odds](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Recursion
@@ -314,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0397-integer-replacement](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0397-integer-replacement/) | Medium |
 | [0509-fibonacci-number](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -457,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,4 +501,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
