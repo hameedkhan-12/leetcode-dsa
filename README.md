@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1551-minimum-operations-to-make-array-equal](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2409-count-days-spent-together](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Recursion
