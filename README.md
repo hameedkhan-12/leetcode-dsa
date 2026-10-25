@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Math
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -445,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -489,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
