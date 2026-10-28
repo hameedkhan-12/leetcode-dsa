@@ -1,11 +1,13 @@
 class Solution {
 public:
     string toLowerCase(string s) {
-        for (char& c : s) {
+        string ans = "";
+        for (char c : s) {
             if (c >= 'A' && c <= 'Z') {
-                c += 32;
+                c = c + 32;
             }
+            ans += c;
         }
-        return s;
+        return ans;
     }
 };
