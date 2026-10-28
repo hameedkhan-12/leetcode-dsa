@@ -1,13 +1,16 @@
 class Solution {
 public:
     string toLowerCase(string s) {
-        string ans = "";
-        for (char c : s) {
-            if (c >= 'A' && c <= 'Z') {
-                c = c + 32;
-            }
-            ans += c;
+        toLower(s, 0);
+        return s;
+    }
+    void toLower(string& s, int next) {
+        if (next >= s.size())
+            return;
+
+        if (s[next] >= 'A' && s[next] <= 'Z') {
+            s[next] += 32;
         }
-        return ans;
+        toLower(s, next + 1);
     }
 };
