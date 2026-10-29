@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3886-sum-of-sortable-integers](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0397-integer-replacement/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -472,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,10 +526,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/hameedkhan-12/leetcode-dsa/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
